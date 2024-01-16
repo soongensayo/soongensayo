@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects and relevant details are available at [soongen.com](soongen.com)! Do check it out to find out more about who I am
 
-- 💬 Reach out to me if you're interested in **Faith-based tech** or the projects I'm working on!
+- 💬 Reach out to me if you're interested in **Faith-based tech** or any of the projects I'm working on
 
 - 📫 How to reach me **soongen@u.nus.edu**
 
