@@ -1,4 +1,4 @@
-<h1 align="center>Hi there 👋 I'm Soong En</h1>
+<h1 align="center>Hi there! I'm Soong En</h1>
 <h3 align="center"></h3>
 
 - 🔭 I’m currently working on [Pastures](pastures.app), as well as a no-code platform for community telebots
