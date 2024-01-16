@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **about vector databases and native app development**
 
-- 👨‍💻 All of my projects and relevant details are available at [soongen.com](soongen.com)
+- 👨‍💻 All of my projects and relevant details are available at [soongen.com](soongen.com)! Do check it out to find out more about who I am
 
 - 💬 Reach out to me if you're interested in **Faith-based tech**
 
