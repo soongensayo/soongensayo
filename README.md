@@ -1,15 +1,13 @@
-### Hi there 👋
-
-<h1 align="center">Soong En</h1>
+<h1 align="center>Hi there 👋 I'm Soong En</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on [Pastures](pastures.app)
+- 🔭 I’m currently working on [Pastures](pastures.app), as well as a no-code platform for community telebots
 
 - 🌱 I’m currently learning **about vector databases and native app development**
 
 - 👨‍💻 All of my projects and relevant details are available at [soongen.com](soongen.com)
 
-- 💬 Reach out to me about **Faith-based tech**
+- 💬 Reach out to me if you're interested in **Faith-based tech**
 
 - 📫 How to reach me **soongen@u.nus.edu**
 
