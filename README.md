@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on [Pastures](https://pastures.app), as well as a no-code platform for community telebots
 
-- 🌱 I’m currently learning **about vector databases and native app development**
-
-- 👨‍💻 All of my projects and relevant details are available at [soongen.com](soongen.com)! Do check it out to find out more about who I am
-
 - 💬 Reach out to me if you're interested in **Faith-based tech** or any of the projects I'm working on
 
-- 📫 How to reach me **soongen@u.nus.edu**
+- 📫 How to reach me **soongen@pastures.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
