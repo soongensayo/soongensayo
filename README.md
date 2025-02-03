@@ -5,7 +5,7 @@
 
 - 💬 Reach out to me if you're interested in **Faith-based tech**
 
-- 📫 How to reach me **soongen@pastures.app**
+- 📫 How to reach me: **soongen@pastures.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
