@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pastures](https://pastures.app), as well as a no-code platform for community telebots
 
-- 💬 Reach out to me if you're interested in **Faith-based tech** or any of the projects I'm working on
+- 💬 Reach out to me if you're interested in **Faith-based tech**
 
 - 📫 How to reach me **soongen@pastures.app**
 
